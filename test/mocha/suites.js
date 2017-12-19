@@ -119,7 +119,10 @@ define([
     ],
     'wraps': [
       '/wraps/alerts_mediator.spec'
-    ]
+    ],
+	'object': [
+	  '/widgets/simbad_object_facet.spec'
+	]
   };
 
   // discovery is an aggregation of all suites in one
